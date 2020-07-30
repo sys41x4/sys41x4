@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**root-ji218at/root-ji218at** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**I am Arijit Bhowmick**
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning B.Tech Cybersecurity and Forensic
+- 🤔 I’m looking to lead my life to Ethical hacking
+- 📫 You can reach to me: via GitHub, Facebook, Gmail, Twitter, and Instagram 
+- ⚡ Some of the things that I follow: [1] Nothing is forever, Everything is permitted.
+                                       [2] Be Anonymous, Be Safe
+                                       [3] No System is Safe
+                                       [4] and manymore
+
