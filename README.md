@@ -4,7 +4,7 @@
 **I am Arijit Bhowmick**
 
 Here are some ideas to get you started:
-<img src= "https://root-ji218at.github.io/Profile_Pictures/Cover_pic.jpg" align="right"> 
+<img src= "https://root-ji218at.github.io/Profile_Pictures/Cover_pic_.jpg" align="right"> 
 - 💧 My Base/Starting Programing Language is Python
 - 🌱 I’m currently learning B.Tech Cybersecurity and Forensic
 - 🤔 I’m looking to lead my life to Ethical hacking
