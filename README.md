@@ -3,8 +3,6 @@
 
 **I am Arijit Bhowmick**
 
-<img src= "https://root-ji218at.github.io/Profile_Pictures/Cover_pic_.jpg" align="right"> 
-
 *About Me*
 - 💧 My Base/Starting Programing Language is Python
 - 🌱 I’m currently learning B.Tech Cybersecurity and Forensic
@@ -15,3 +13,4 @@
                                        [3] No System is Safe
                                        [4] and manymore
 
+<img src= "https://root-ji218at.github.io/Profile_Pictures/Cover_pic_.jpg" align="right"> 
