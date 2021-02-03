@@ -9,4 +9,4 @@
 - 🤔 I’m looking to lead my life to Ethical hacking
 - 📫 You can reach to me: via GitHub, Facebook, Gmail, Twitter, and Instagram 
 
-<iframe src="https://sys-41414141.github.io/" title="webpage"></iframe> 
+<img src="bg_pic.jpg" text-align="center" width="600" height="400">
