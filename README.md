@@ -7,7 +7,11 @@
 - 💧 My Base Programing Language is Python
 - 🌱 I’m currently learning B.Tech Cybersecurity and Forensic
 - 🤔 I’m looking to lead my life to Ethical hacking
-- 📫 You can reach to me: via GitHub, Facebook, Gmail, Twitter, and Instagram 
+- [Website](https://sys41x4.github.io)  
+- [Twitter](https://twitter.com/sys41x4)  
+- [LinkedIn](https://in.linkedin.com/in/sys41x4)  
+- [Instagram](https://www.instagram.com/sys41x4/)
+- [Facebook](https://www.facebook.com/sys41x4/)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=sys41x4&show_icons=true&count_private=true&theme=material-palenight)  
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sys41x4&layout=compact&langs_count=10&theme=material-palenight)  
