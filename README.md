@@ -30,7 +30,43 @@
                   https://www.instagram.com/sys41x4 | https://www.facebook.com/sys41x4
 
 ```
+---
 
-![stats](https://github-readme-stats.vercel.app/api?username=sys41x4&show_icons=true&count_private=true&theme=material-palenight)  
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sys41x4&layout=compact&langs_count=10&theme=material-palenight)  
-![trophy](https://github-profile-trophy.vercel.app/?username=sys41x4&theme=dracula&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B)  
+### GitHub Stats 📈
+<div align="center">
+  <table width="100%">
+    <tbody>
+      <tr>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/sys41x4">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sys41x4&layout=compact&langs_count=10&theme=codeSTACKr" alt="Arijit's Language Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/sys41x4">
+            <img src="https://github-readme-stats.vercel.app/api?username=sys41x4&show_icons=true&count_private=true&theme=codeSTACKr" alt="Arijit's GitHub Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+      </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/sys41x4">
+          <img src="https://github-profile-trophy.vercel.app/?username=sys41x4&theme=matrix&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)" alt="Arijit's GitHub Trophy" vertical-align="middle"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sys41x4">
+	  <img src="https://komarev.com/ghpvc/?username=sys41x4" alt="Arijit's GitHub Profile View Count" vertical-align="middle"/>
+	</a>
+      </td>
+    </tr>
+    </tbody>
+  <table>
+	  
+<div>
+
+---
